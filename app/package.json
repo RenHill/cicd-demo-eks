@@ -1,0 +1,12 @@
+{
+  "name": "eks-cicd-app",
+  "version": "1.0.0",
+  "description": "Sample app for EKS CI/CD pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
